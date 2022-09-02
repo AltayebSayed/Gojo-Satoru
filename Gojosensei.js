@@ -1799,7 +1799,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 غوجو ساتورو موجود 🎉」\n\n${text}`
+                      let txt = `「 طيوبة كريزي موجود 🎉」\n\n${text}`
                       GojoMdNx.send5ButImg(yoi, txt, GojoMdNx.user.name, global.thumb, btn)
 		}
 		reply('「 تم 🤗 」◣')
@@ -3360,12 +3360,12 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `┌─❖
 ┌─❖ مـرحبـاً 🤗 」
 └┬❖ 「 ${pushname} 」
-││✑「مـعـك بـوت غـوجـو 👋🏻」◣
-││✑「مـن مـمـلـكـة غولد 🤗」◣
+││✑「بـوت طيوبة 👋🏻」◣
+││✑「مـن مـمـلـكـة التصميم 🤗」◣
 │└───────────────┈ ⳹
  「 مـعـلـومـات عـن الـبـوت 」
-│✙「 اسـم الـبـوت 」◣ : 「 غوجو ✨🤞🏻 」◣
-│✙「 رقـم الـمـالـك 」◣ : ${global.owner}
+│✙「 اسـم الـبـوت 」◣ : 「 طيوبة ✨🤞🏻 」◣
+│✙「 رقـم الـمـالـك 」◣ : ${+2490924644147}
 │✙「عـدد الـمـسـتـخـدمـيـن」◣ : ${Object.keys(global.db.data.users).length}
 └┬──────────────┈ ⳹
    │✑  「 اضـغـط عـلـى الـخـيـارات 🤗 」◣
@@ -3373,13 +3373,14 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                              hydratedButtons: [{
                                 urlButton: {
                                     displayText: '「 قناتي 」「📍」◣',
-                                    url: `${myweb}`
+                                    url: `${
+https://youtube.com/channel/UCXurMu5u4bExzYgmRortNLg}`
                                 }
                             }, {
                             	urlButton: {
                                 displayText: '「 رابط الاستقبال 」「📌」◣',
                                     url: `${sc}`
-                                }
+                              https://wa.Me/+2490924644147  }
                             }, {
                                 quickReplyButton: {
                                     displayText: '「 القائمة الاساسية 」「🗒️」◣',
@@ -3393,13 +3394,13 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                                 }, {
                                 quickReplyButton: {
                                     displayText: '「 المالك 」「👤」◣',
-                                    id: `${prefix}owner`
+                                    id: `${كريزي}owner`
                                 }
                             }]
                         }
                     }
                 }), { userJid: m.chat })
-                GojoMdNx.relayMessage(m.chat, template.message, { messageId: template.key.id })
+                Tayoobacrazy.relayMessage(m.chat, template.message, { messageId: template.key.id })
                 }
 break
             case '90990919191': case '909091919': {
@@ -3415,12 +3416,12 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `
 ┌─❖ مـرحبـاً 🤗 」
 └┬❖ 「 ${pushname} 」
-││✑「مـعـك بـوت غـوجـو 👋🏻」◣
-││✑「مـن مـمـلـكـة غولد 🤗」◣
+││✑「مـعـك بـوت طيوبة 👋🏻」◣
+││✑「مـن مـمـلـكـة التصميم 🤗」◣
 │└───────────────┈ ⳹
  「 مـعـلـومـات عـن الـبـوت 」
-│✙「 اسـم الـبـوت 」◣ : 「 غوجو ✨🤞🏻 」◣
-│✙「 رقـم الـمـالـك 」◣ : ${global.owner}
+│✙「 اسـم الـبـوت 」◣ : 「 طيوبة ✨🤞🏻 」◣
+│✙「 رقـم الـمـالـك 」◣ : ${+2490924644147}
 │✙「عـدد الـمـسـتـخـدمـيـن」◣ : ${Object.keys(global.db.data.users).length}
 └┬──────────────┈ ⳹
    │✑  「 اضـغـط عـلـى الـخـيـارات 🤗 」◣
@@ -3428,13 +3429,15 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '「 قناتي 」「📍」◣',
-                                    url: `${myweb}`
+                                    url: `${
+https://youtube.com/channel/UCXurMu5u4bExzYgmRortNLg}`
                                 }
                             }, {
                             	urlButton: {
                                 displayText: '「 رابط الاستقبال 」「📌」◣',
                                     url: `${sc}`
-                                }
+                             
+https://www.facebook.com/jori.rose.583   }
                             }, {
                                 quickReplyButton: {
                                     displayText: '「 القائمة الاساسية 」「🗒️」◣',
@@ -3454,17 +3457,18 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                         }
                     }
                 }), { userJid: m.chat })
-                GojoMdNx.relayMessage(m.chat, template.message, { messageId: template.key.id })
+                TayoobaCrazy.relayMessage(m.chat, template.message, { messageId: template.key.id })
                 }
                 break
 	case 'الاوامر': case 'اوامر': {
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
                     title: `「 مرحبا 👋🏻  」◣
-		    「 معك بوت غوجو 🤗 」◣
+		    「 معك بوت طيوبة 🤗 」◣
 		    「 افضل بوت عربي 」◣
  「 رابط فرع التعليم على البوت」◣
-		    「https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3」◣
+		    「
+https://www.facebook.com/jori.rose.583」◣
 		    「 الي محتاج شروحات ينضم 」◣`,
                     description: `「 اختر قائمة من فضلك 」◣`,
                     buttonText: "「 القائمة 」◣",
@@ -3584,24 +3588,26 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
           listType: 1
                 }
             }), {})
-            GojoMdNx.relayMessage(m.chat, template.message, { messageId: template.key.id })
+            TayoobaCrazy.relayMessage(m.chat, template.message, { messageId: template.key.id })
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': {
-                GojoMdNx.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c15f725add0381fb69c4b.jpg' }, caption: `` }, { quoted: m })
+                TayoobaCrazy.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c15f725add0381fb69c4b.jpg' }, caption: `` }, { quoted: m })
             }
             break
             case 'التسجhgjيل': case 'التسجيل': {
                 reply(`「 الفرع الخاص ل التعليم على البوت 」◣
 
-「 _https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3_ 」◣
+「 _
+https://www.facebook.com/jori.rose.583 」◣
 
 「 نرحب بالجميع. 」◣`)
             }
             break
 case '9807786789678': {
   	anu = `
-┏━「 *${botname}* 」━━⭓ 
+┏━「 *${
+أصفـر🌻💛| Yellow}* 」━━⭓ 
 ┃╔══☯︎「 MAIN 」☯︎
 ┃╠ ${prefix}alive
 ┃╠ ${prefix}script
@@ -3828,7 +3834,7 @@ case '9807786789678': {
 ┃╠${prefix}zodiak (indo)
 ┃╠${prefix}shio (indo)
 ┃╚═══════✍︎𝑁𝑒𝑥𝑢𝑠𝑁𝑤
-┗━「 *Created By ${ownername}*  𖠌」━⭓`
+┗━「 *Created By ${tayoobacrazy}*  𖠌」━⭓`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
                         hydratedTemplate: {
@@ -3839,7 +3845,8 @@ case '9807786789678': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '「 قناتي 」「📍」◣',
-                                    url: `${myweb}`
+                                    url: `${
+https://youtube.com/channel/UCXurMu5u4bExzYgmRortNLg}`
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3850,7 +3857,7 @@ case '9807786789678': {
                         }
                     }
                 }), { userJid: m.chat })
-                GojoMdNx.relayMessage(m.chat, template.message, { messageId: template.key.id })
+                TayoobaCrazy.relayMessage(m.chat, template.message, { messageId: template.key.id })
             }
 break
 case 'mainmenu':
@@ -4023,7 +4030,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 break
 case 'textpromenu':
 var unicorn = await getBuffer(picak+'.14.')
-await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
+await tayoobacrazy.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔═✪「 الزخرفة 」	        
 ┃╠زخرفة  انقلش | styletext
@@ -4032,7 +4039,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 break
 case 'convertmenu':
 var unicorn = await getBuffer(picak+'.11.')
-await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
+await tayoobacrazy.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔══✪「 التحويلات 」	        
 ┃╠ملصق |ستيكر | س
@@ -4046,7 +4053,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 break
 case 'databasemenu':
 var unicorn = await getBuffer(picak+'.12.')
-await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
+await tayoobacrazy.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔═══✪「 البيانات 」	        
 ┃╠اضافة.رسالة
@@ -4057,7 +4064,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 break
 case 'anon':
 var unicorn = await getBuffer(picak+'.17.')
-await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
+await tayoobacrazy.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔══✪「 الاستمارات 」	        
     「 القوانين 」
@@ -4092,7 +4099,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 break
 case 'islamicmenu':
 var unicorn = await getBuffer(picak+'.15.')
-await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
+await tayoobacrazy.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔══✪「 القرآن الكريم 」	        
 ┃╠القرآن | juzamma pdf
@@ -4101,7 +4108,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 break
 case 'voicechangermenu':
 var unicorn = await getBuffer(picak+'.13.')
-await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
+await tayoobacrazy.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔══✪「 مغير الاصوات 」	        
 ┃╠سريع | fast
@@ -4112,7 +4119,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 break
 case 'horoscopemenu':
 var unicorn = await getBuffer(picak+'.16.')
-await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
+await tayoobacrazy.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔══✪「 الأضافات 」	        
 ┃╠شاي | قهوة
@@ -4121,7 +4128,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 break
 case 'thanksto': case 'tqto': case 'tqtt':
 var unicorn = await getBuffer(picak+'.18.')
-await GojoMdNx.send5ButImg(from, `` + '' + ' ', `مملكة غولد كانت تضم حوالي 50 نقابة كانت من افضل الممالك قديما بقيادة الامبراطور توشيرو والنائب ساتومي من نأحية التحديات والمسابقات كانت المملكة من الاوائل وقتها لكن في مرة من الايام تعطل هاتف الامبراطور توشيرو واختفى حوالي سنتين وعندما عاد  اختفت المملكة وكل شيء  والان هو يحاول ان يحيئ مملكته من البداية التي لاتضم اي نقابة حاليا وخطوته الاولى كانت بأن يعمل بوت وهو انا كيف تشوفوني ؟ ههه مو مشكلة المهم توشيرو  يقول اذا بدكم تنضمون معنا اضغطو ع زر رابط الاستقبال.`,unicorn, [{"urlButton": {"displayText": "「 قناتي 」「📍」◣","url": `${myweb}`}},{"urlButton": {"displayText": "「 رابط الاستقبال 」「📌」◣","url": `${sc}`}},{"quickReplyButton": {"displayText": "「 الاستلام 」「🍜」◣","id": 'donate'}},{"quickReplyButton": {"displayText": "「 المالك 」「👤」◣","id": 'owner'}}] )
+await tayoobacrazy.send5ButImg(from, `` + '' + ' ', `مملكة غولد كانت تضم حوالي 50 نقابة كانت من افضل الممالك قديما بقيادة الامبراطور توشيرو والنائب ساتومي من نأحية التحديات والمسابقات كانت المملكة من الاوائل وقتها لكن في مرة من الايام تعطل هاتف الامبراطور توشيرو واختفى حوالي سنتين وعندما عاد  اختفت المملكة وكل شيء  والان هو يحاول ان يحيئ مملكته من البداية التي لاتضم اي نقابة حاليا وخطوته الاولى كانت بأن يعمل بوت وهو انا كيف تشوفوني ؟ ههه مو مشكلة المهم توشيرو  يقول اذا بدكم تنضمون معنا اضغطو ع زر رابط الاستقبال.`,unicorn, [{"urlButton": {"displayText": "「 قناتي 」「📍」◣","url": `${myweb}`}},{"urlButton": {"displayText": "「 رابط الاستقبال 」「📌」◣","url": `${sc}`}},{"quickReplyButton": {"displayText": "「 الاستلام 」「🍜」◣","id": 'donate'}},{"quickReplyButton": {"displayText": "「 المالك 」「👤」◣","id": 'owner'}}] )
 break
             default:
                 if (budy.startsWith('=>')) {
@@ -4184,7 +4191,7 @@ break
 		    if (m.isBaileys) return
 		    let msgs = global.db.data.database
 		    if (!(budy.toLowerCase() in msgs)) return
-		    GojoMdNx.copyNForward(m.chat, msgs[budy.toLowerCase()], true)
+		    Tayoobacrazy.copyNForward(m.chat, msgs[budy.toLowerCase()], true)
 		}
         }
         
