@@ -1,8 +1,10 @@
 {
-  "name": "Gojo-Satoru",
+  "name": "Tayooba-Crazy",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/nexusNw/Gojo-Satoru",
-  "logo": "https://telegra.ph/file/4c2c0174e86ac3bac2ba8.jpg",
+  "repository": "
+https://github.com/AltayebSayed/Gojo-Satoru.git",
+  "logo": "
+https://i.top4top.io/p_2437ak3a40.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
