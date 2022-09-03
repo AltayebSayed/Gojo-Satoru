@@ -3613,7 +3613,7 @@ case '9807786789678': {
 ┃╠ ${prefix}script
 ┃╠ ${prefix}speedtest
 ┃╠ ${prefix}ping
-┃╠ ${prefix}owner
+┃╠ ${tayoobacrazy}owner
 ┃╠ ${prefix}menu
 ┃╠ ${prefix}delete
 ┃╠ ${prefix}chatinfo
@@ -3622,9 +3622,10 @@ case '9807786789678': {
 ┃╠ ${prefix}listgc
 ┃╠ ${prefix}donate
 ┃╠ ${prefix}report [bug]
-┃╠══✪「 OWNER 」 ☯︎
+┃╠══✪「 Tayooba 」 ☯︎
 ┃╠ ${prefix}chat [option]
-┃╠ ${prefix}join [link]
+┃╠ ${إستقبال}join [
+https://chat.whatsapp.com/FuQCV2QYOnVFfv7qWLljd0]
 ┃╠ ${prefix}leave
 ┃╠ ${prefix}block [user]
 ┃╠ ${prefix}unblock [user]
@@ -3633,12 +3634,13 @@ case '9807786789678': {
 ┃╠ ${prefix}setppbot [image]
 ┃╠ ${prefix}setexif
 ┃╠══✪「 GROUP 」 ☯︎      
-┃╠${prefix}grouplink
+┃╠${
+https://chat.whatsapp.com/FuQCV2QYOnVFfv7qWLljd0}grouplink
 ┃╠${prefix}ephemeral [option]
 ┃╠${prefix}setgcpp [image]
-┃╠${prefix}setname [text]
+┃╠${prefix}setname [tayooba]
 ┃╠${prefix}setdesc [text]
-┃╠${prefix}group [text]
+┃╠${prefix}group [bottayooba]
 ┃╠${prefix}editinfo [option]
 ┃╠${prefix}add [user]
 ┃╠${prefix}kick [reply/tag]
