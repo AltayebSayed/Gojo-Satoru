@@ -1746,7 +1746,8 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: '「 رابط الاستقبال 」「📌」◣',
+                                    displayText:استقبال
+					」「📌」◣',
                                     url: `${sc}`
                                 }
                             }, {
@@ -1765,7 +1766,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 غوجو ساتورو موجود 🎉 」\n\n${text}`
+                      let txt = `「 طيوبة كريزي🎉 」\n\n${text}`
                       GojoMdNx.send5ButImg(i, txt, GojoMdNx.user.name, global.thumb, btn)
                     }
                 reply(`「 تم  ✌ 」◣`)
@@ -1786,7 +1787,8 @@ break
                             }, {
                                 urlButton: {
                                     displayText: '「 قناتي 」「📍」◣', 
-                                    url: `${myweb}`
+                                    url: `${myw
+				    
                                 }
                             }, {
                                 quickReplyButton: {
